@@ -2,12 +2,13 @@ import { emit, on } from "../helpers.js";
 
 const tag = "[View]";
 
+// 모든 View들이 공통으로 사용하는 클래스
 export default class View {
   constructor(element) {
     if (!element) throw "no element";
 
     this.element = element;
-    this.originalDisplay = this.element.style.dispaly || "";
+    this.originalDisplay = this.element.style.display || "";
 
     return this;
   }
