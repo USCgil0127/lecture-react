@@ -22,8 +22,9 @@ export default class View {
     this.element.style.display = this.originalDisplay;
     return this;
   }
-
+  
   on(eventName, handler) {
+    // 애드 이벤트 리스너 에서 ( 클릭, 함수 )
     on(this.element, eventName, handler);
     return this;
   }
