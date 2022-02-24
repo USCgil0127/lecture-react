@@ -45,11 +45,11 @@
 
 -------------------
 
-강의를 듣고 검색 폼을 만들어보면서, 작성한 TIL들을 아래 Velog 링크들에 작성했습니다.
+강의를 듣고 검색 폼을 만들어보면서, 작성한 TIL들을 아래 `Velog` 링크들에 작성했습니다.
 
 ### [바닐라 JS로 만들기 - TIL](https://velog.io/@gil0127/%EB%B0%94%EB%8B%90%EB%9D%BC-JS%EB%A1%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
-### [리엑트의 특성- TIL](https://velog.io/@gil0127/React-%EB%A1%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0#%ED%8A%B9%EC%84%B1-6-jsx)
+### [리엑트의 특성 - TIL](https://velog.io/@gil0127/React-%EB%A1%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0#%ED%8A%B9%EC%84%B1-6-jsx)
 
 ### [React로 만들기 - 검색폼 구현 - TIL](https://velog.io/@gil0127/%EB%A6%AC%EC%97%91%ED%8A%B8-JS%EB%A1%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
