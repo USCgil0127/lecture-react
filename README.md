@@ -53,7 +53,7 @@
 
 ### [React로 만들기 - 검색폼 구현 - TIL](https://velog.io/@gil0127/%EB%A6%AC%EC%97%91%ED%8A%B8-JS%EB%A1%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
-### [React로로 만들기 - 검색 결과 구현 - TIL](https://velog.io/@gil0127/%EB%A6%AC%EC%97%91%ED%8A%B8-JS%EB%A1%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0-2)
+### [React로 만들기 - 검색 결과 구현 - TIL](https://velog.io/@gil0127/%EB%A6%AC%EC%97%91%ED%8A%B8-JS%EB%A1%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0-2)
 
 ### [React로 만들기 - 탭 구현, 추천 검색어 구현 - TIL](https://velog.io/@gil0127/%EB%A6%AC%EC%97%91%ED%8A%B8-JS%EB%A1%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0-%ED%83%AD-%EA%B5%AC%ED%98%84-%EC%B6%94%EC%B2%9C-%EA%B2%80%EC%83%89%EC%96%B4-%EA%B5%AC%ED%98%84)
 
